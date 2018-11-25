@@ -26,9 +26,9 @@ Led driver
 
 Metal Gearmotor 25mm - 100RPM 9-12V
 
-Φορτιστης μπαταριων μολυβδου VRLA MINWA 6-12V MW-CC01 AGS
+Φορτιστης μπαταριων μολυβδου 6-12V MW-CC01 AGS
 
-Επαναφορτιζολμενη μπαταρια μολυβδου YUASA 12V 7Ah NP7-12
+Επαναφορτιζολμενη μπαταρια μολυβδου 12V 7Ah NP7-12
 
 Αισθητήρας υπερήχων
 
@@ -50,7 +50,7 @@ SET MEGA2560 R3 Board ATmega2560-16AU with ATMega16U2 + USB Cable
 
 Ταινία LED RGB
 
-Ηχεια Lenovo M0620
+Ηχεια 
 
 Φάρος συναγερμου
 
