@@ -36,8 +36,6 @@ HC-SR04 Ultrasonic Module Distance for Arduino
 
 Acrylic Ultrasonic Sensor Mounting Bracket for HC-SR04 Module
 
-ESP32 ESP-32S Development Board WiFi+Bluetooth - Dual Core UltraLow Power Consumption Microcontoller
-
 2x7A DC Motor Driver (DRI0041)
 
 arduino uno
