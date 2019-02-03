@@ -12,45 +12,11 @@
 
 __________________________________________________________________________________________________________________
 
-Βασικά υλικά κατασκευής:
+Υλοποίηση
 
-5.4" Off-Road Robot Tires 
+Η υλοποίηση του έργου έχει διαιρεθεί σε κεφάλαια ανάλογα με την σωστή πορεία κατασκευής.
 
-Revolver Robot Wheels 
-
-Line follower
-
-Led driver
-
-Αισθητηρας θερμοκρασιας υγρασιας
-
-Metal Gearmotor 25mm - 100RPM 9-12V
-
-Φορτιστης μπαταριων μολυβδου 6-12V MW-CC01 AGS
-
-Επαναφορτιζολμενη μπαταρια μολυβδου 12V 7Ah NP7-12
-
-Αισθητήρας υπερήχων
-
-HC-SR04 Ultrasonic Module Distance for Arduino
-
-Acrylic Ultrasonic Sensor Mounting Bracket for HC-SR04 Module
-
-2x7A DC Motor Driver (DRI0041)
-
-arduino uno
-
-arduino mp3 player
-
-Arduino clock
-
-SET MEGA2560 R3 Board ATmega2560-16AU with ATMega16U2 + USB Cable
-
-Ταινία LED RGB
-
-Ηχεια 
-
-Φάρος συναγερμου
+Σε κάθε φάκελο υπάρχει το φύλλο έργου του αντίστοιχου κεφαλαίου με τον πίνακα των απαραίτητων υλικών.
 
 
 
